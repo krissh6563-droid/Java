@@ -19,5 +19,8 @@ int sum = Arrays.stream(nums).max().getAsInt();
 //find the maximum between two elements
 result = Integer.max(num1,num2);
    
-
+//for each in java
+for(int i:arr){
+            System.out.println(i);
+        }
 
