@@ -12,6 +12,12 @@ Set<Integer> set = new HashSet<Integer> ();
    setMethod
    set.add()
    set.contains()
+  
+//find the maximum element in array
+int sum = Arrays.stream(nums).max().getAsInt();
+
+//find the maximum between two elements
+result = Integer.max(num1,num2);
    
 
 
